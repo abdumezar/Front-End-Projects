@@ -7,8 +7,8 @@
 - Live Demo : https://abdumezar.github.io/Daniels/
 #
 ## Egyptian Party
-- Repository: https://github.com/abdumezar/Egyptioan-Party
-- Live Demo : https://abdumezar.github.io/Egyptioan-Party/
+- Repository: https://github.com/abdumezar/Egyptian-Party
+- Live Demo : https://abdumezar.github.io/Egyptian-Party/
 #
 ## Smart Login | Using Local Storage to save user data
 - Repository: https://github.com/abdumezar/Smart-Login
