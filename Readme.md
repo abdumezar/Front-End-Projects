@@ -1,7 +1,6 @@
 # Front-End-Projects
 > you can find my front-end projects here:
 #
-#
 ## Personal Portfolio | Daniels
 - Repository: https://github.com/abdumezar/Daniels
 - Live Demo : https://abdumezar.github.io/Daniels/
